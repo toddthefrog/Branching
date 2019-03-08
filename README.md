@@ -7,3 +7,5 @@ This will list ways to create and manage branches.
 `git branch BRANCH_NAME` - creates a new branch called BRANCH_NAME
 
 `git checkout BRANCH_NAME` - switches to that branch
+
+`git checkout -b BRANCH_NAME` - creates AND switches to the branch
